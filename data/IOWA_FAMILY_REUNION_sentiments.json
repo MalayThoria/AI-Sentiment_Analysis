@@ -1,0 +1,1994 @@
+[
+    {
+        "text": "Seemed frustrated.",
+        "start": 330,
+        "end": 1082,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7760276198387146,
+        "speaker": null
+    },
+    {
+        "text": "We thought maybe a gift.",
+        "start": 1146,
+        "end": 2586,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7826259732246399,
+        "speaker": null
+    },
+    {
+        "text": "I seem frustrated.",
+        "start": 2778,
+        "end": 3834,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9005349278450012,
+        "speaker": null
+    },
+    {
+        "text": "A gift maybe helped.",
+        "start": 3882,
+        "end": 5386,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5902290940284729,
+        "speaker": null
+    },
+    {
+        "text": "Maybe after the show.",
+        "start": 5498,
+        "end": 6960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8205193281173706,
+        "speaker": null
+    },
+    {
+        "text": "Thank you so much.",
+        "start": 9170,
+        "end": 10414,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9793016910552979,
+        "speaker": null
+    },
+    {
+        "text": "What is this?",
+        "start": 10532,
+        "end": 11774,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6891485452651978,
+        "speaker": null
+    },
+    {
+        "text": "Well, don't clap.",
+        "start": 11972,
+        "end": 12874,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5456142425537109,
+        "speaker": null
+    },
+    {
+        "text": "It could be a bomb.",
+        "start": 12922,
+        "end": 13898,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5174177885055542,
+        "speaker": null
+    },
+    {
+        "text": "We don't know.",
+        "start": 13994,
+        "end": 15040,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6351645588874817,
+        "speaker": null
+    },
+    {
+        "text": "We don't know yet.",
+        "start": 15570,
+        "end": 16960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7250640988349915,
+        "speaker": null
+    },
+    {
+        "text": "I came to Iowa and I guess that's because bill the bear coat.",
+        "start": 17650,
+        "end": 26470,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.722079336643219,
+        "speaker": null
+    },
+    {
+        "text": "Listen, guys, I've never ended a show early before, but I'm sure you would all understand if I had to wrap things up, right?",
+        "start": 32890,
+        "end": 40860,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6863725781440735,
+        "speaker": null
+    },
+    {
+        "text": "There's one more thing in here.",
+        "start": 41630,
+        "end": 43434,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7851584553718567,
+        "speaker": null
+    },
+    {
+        "text": "Cookies.",
+        "start": 43632,
+        "end": 44650,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6922785639762878,
+        "speaker": null
+    },
+    {
+        "text": "Are you kidding me?",
+        "start": 45550,
+        "end": 46940,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6194784045219421,
+        "speaker": null
+    },
+    {
+        "text": "The blowjob is going to have a hard time beating this.",
+        "start": 52670,
+        "end": 55200,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7954120635986328,
+        "speaker": null
+    },
+    {
+        "text": "It's like the perfect consistency, too.",
+        "start": 57970,
+        "end": 60222,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8031980991363525,
+        "speaker": null
+    },
+    {
+        "text": "Oh, my God.",
+        "start": 60276,
+        "end": 61280,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.44471031427383423,
+        "speaker": null
+    },
+    {
+        "text": "Thank you so much.",
+        "start": 61650,
+        "end": 62586,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9793016910552979,
+        "speaker": null
+    },
+    {
+        "text": "What's your name?",
+        "start": 62628,
+        "end": 63540,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7728434205055237,
+        "speaker": null
+    },
+    {
+        "text": "Christina.",
+        "start": 63910,
+        "end": 64638,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7788822054862976,
+        "speaker": null
+    },
+    {
+        "text": "You are so hot.",
+        "start": 64734,
+        "end": 65730,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9745153784751892,
+        "speaker": null
+    },
+    {
+        "text": "Thank you so much.",
+        "start": 65800,
+        "end": 66980,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9793016910552979,
+        "speaker": null
+    },
+    {
+        "text": "Oh, my God.",
+        "start": 67910,
+        "end": 69140,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.44471031427383423,
+        "speaker": null
+    },
+    {
+        "text": "You're a grandma.",
+        "start": 71430,
+        "end": 73010,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6252115368843079,
+        "speaker": null
+    },
+    {
+        "text": "Let's put that shower chair to use.",
+        "start": 79210,
+        "end": 81400,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8174448609352112,
+        "speaker": null
+    },
+    {
+        "text": "There's already plastic on the furniture.",
+        "start": 82970,
+        "end": 84866,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7261025309562683,
+        "speaker": null
+    },
+    {
+        "text": "Let's make a mess.",
+        "start": 84898,
+        "end": 85960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.463971883058548,
+        "speaker": null
+    },
+    {
+        "text": "How old are you?",
+        "start": 86730,
+        "end": 87960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.842516303062439,
+        "speaker": null
+    },
+    {
+        "text": "Say it.",
+        "start": 89230,
+        "end": 90220,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.627546489238739,
+        "speaker": null
+    },
+    {
+        "text": "Say it.",
+        "start": 91870,
+        "end": 92940,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.627546489238739,
+        "speaker": null
+    },
+    {
+        "text": "This is dirty.",
+        "start": 95950,
+        "end": 96694,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9382020235061646,
+        "speaker": null
+    },
+    {
+        "text": "Talk to me.",
+        "start": 96742,
+        "end": 97226,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7801498174667358,
+        "speaker": null
+    },
+    {
+        "text": "Come on.",
+        "start": 97248,
+        "end": 97980,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5757861137390137,
+        "speaker": null
+    },
+    {
+        "text": "40?",
+        "start": 100750,
+        "end": 101222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7041773200035095,
+        "speaker": null
+    },
+    {
+        "text": "45?",
+        "start": 101296,
+        "end": 102158,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6685853600502014,
+        "speaker": null
+    },
+    {
+        "text": "Are you serious?",
+        "start": 102324,
+        "end": 103470,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5716437697410583,
+        "speaker": null
+    },
+    {
+        "text": "Are you from here?",
+        "start": 103810,
+        "end": 105086,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8368381857872009,
+        "speaker": null
+    },
+    {
+        "text": "Really?",
+        "start": 105268,
+        "end": 105950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6008132696151733,
+        "speaker": null
+    },
+    {
+        "text": "We got to get you out of here.",
+        "start": 106100,
+        "end": 107680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5526472330093384,
+        "speaker": null
+    },
+    {
+        "text": "Get you the fuck out of here.",
+        "start": 108930,
+        "end": 110206,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9591118693351746,
+        "speaker": null
+    },
+    {
+        "text": "Minneapolis, at least.",
+        "start": 110228,
+        "end": 111600,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7797627449035645,
+        "speaker": null
+    },
+    {
+        "text": "Let's just get you down the road.",
+        "start": 112370,
+        "end": 113890,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.802447497844696,
+        "speaker": null
+    },
+    {
+        "text": "You're not married or anything?",
+        "start": 114040,
+        "end": 115540,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7591049671173096,
+        "speaker": null
+    },
+    {
+        "text": "You bunch of fucking idiots.",
+        "start": 116390,
+        "end": 118370,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9780415892601013,
+        "speaker": null
+    },
+    {
+        "text": "Oh, my God.",
+        "start": 119030,
+        "end": 119794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.44471031427383423,
+        "speaker": null
+    },
+    {
+        "text": "You local morons.",
+        "start": 119832,
+        "end": 120862,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9430500864982605,
+        "speaker": null
+    },
+    {
+        "text": "Not marrying this beautiful woman who makes great cookies.",
+        "start": 120926,
+        "end": 123570,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.3674067258834839,
+        "speaker": null
+    },
+    {
+        "text": "Stupid.",
+        "start": 124630,
+        "end": 125354,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9054112434387207,
+        "speaker": null
+    },
+    {
+        "text": "I'm so sorry.",
+        "start": 125422,
+        "end": 126440,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8011696338653564,
+        "speaker": null
+    },
+    {
+        "text": "Are you divorced?",
+        "start": 127930,
+        "end": 129190,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7516611218452454,
+        "speaker": null
+    },
+    {
+        "text": "How long were you married for?",
+        "start": 129930,
+        "end": 131510,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.853968620300293,
+        "speaker": null
+    },
+    {
+        "text": "16 years.",
+        "start": 131660,
+        "end": 132486,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6448633074760437,
+        "speaker": null
+    },
+    {
+        "text": "16 years.",
+        "start": 132588,
+        "end": 133974,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6448633074760437,
+        "speaker": null
+    },
+    {
+        "text": "So sorry.",
+        "start": 134172,
+        "end": 135240,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7369113564491272,
+        "speaker": null
+    },
+    {
+        "text": "How many kids do you have?",
+        "start": 142350,
+        "end": 143820,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.869784414768219,
+        "speaker": null
+    },
+    {
+        "text": "Four.",
+        "start": 144430,
+        "end": 145178,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5690394043922424,
+        "speaker": null
+    },
+    {
+        "text": "Oh.",
+        "start": 145344,
+        "end": 145722,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5443295240402222,
+        "speaker": null
+    },
+    {
+        "text": "What?",
+        "start": 145776,
+        "end": 145994,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5652864575386047,
+        "speaker": null
+    },
+    {
+        "text": "That's enough though, right?",
+        "start": 146032,
+        "end": 147340,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7059000134468079,
+        "speaker": null
+    },
+    {
+        "text": "You have your tube side?",
+        "start": 151250,
+        "end": 152720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7904223799705505,
+        "speaker": null
+    },
+    {
+        "text": "You do.",
+        "start": 153410,
+        "end": 154494,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.642175018787384,
+        "speaker": null
+    },
+    {
+        "text": "I'm a fucking moved in the morning.",
+        "start": 154692,
+        "end": 156560,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9256002902984619,
+        "speaker": null
+    },
+    {
+        "text": "These are my sisters.",
+        "start": 161170,
+        "end": 162186,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7951950430870056,
+        "speaker": null
+    },
+    {
+        "text": "Those are your sisters?",
+        "start": 162218,
+        "end": 163254,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8498178124427795,
+        "speaker": null
+    },
+    {
+        "text": "You have three sisters?",
+        "start": 163322,
+        "end": 164622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8131783604621887,
+        "speaker": null
+    },
+    {
+        "text": "I'm the oldest out of nine.",
+        "start": 164766,
+        "end": 166340,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8508941531181335,
+        "speaker": null
+    },
+    {
+        "text": "Nine.",
+        "start": 166710,
+        "end": 167460,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6294945478439331,
+        "speaker": null
+    },
+    {
+        "text": "What's like to have such a hot older sister?",
+        "start": 168870,
+        "end": 170930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5987599492073059,
+        "speaker": null
+    },
+    {
+        "text": "Does she know she's hot?",
+        "start": 172390,
+        "end": 173394,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6084417700767517,
+        "speaker": null
+    },
+    {
+        "text": "Does she know that?",
+        "start": 173432,
+        "end": 174420,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7666147351264954,
+        "speaker": null
+    },
+    {
+        "text": "She doesn't.",
+        "start": 174890,
+        "end": 175794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5448728799819946,
+        "speaker": null
+    },
+    {
+        "text": "Good.",
+        "start": 175922,
+        "end": 176600,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7732181549072266,
+        "speaker": null
+    },
+    {
+        "text": "Keep her humble.",
+        "start": 178410,
+        "end": 179282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.532467782497406,
+        "speaker": null
+    },
+    {
+        "text": "You're nothing, Christina.",
+        "start": 179346,
+        "end": 180710,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7247431874275208,
+        "speaker": null
+    },
+    {
+        "text": "You're going to be stuck here in Iowa forever.",
+        "start": 183610,
+        "end": 185830,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8264614939689636,
+        "speaker": null
+    },
+    {
+        "text": "Unless that's gaslighting.",
+        "start": 186570,
+        "end": 190710,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5902043581008911,
+        "speaker": null
+    },
+    {
+        "text": "What's that?",
+        "start": 192350,
+        "end": 193386,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7330602407455444,
+        "speaker": null
+    },
+    {
+        "text": "What was it?",
+        "start": 193568,
+        "end": 194282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7879168391227722,
+        "speaker": null
+    },
+    {
+        "text": "What did you want to show?",
+        "start": 194336,
+        "end": 195082,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8599583506584167,
+        "speaker": null
+    },
+    {
+        "text": "Was it a bank statement?",
+        "start": 195136,
+        "end": 196006,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8591130375862122,
+        "speaker": null
+    },
+    {
+        "text": "What was it?",
+        "start": 196038,
+        "end": 196940,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7879168391227722,
+        "speaker": null
+    },
+    {
+        "text": "Your daughter?",
+        "start": 201170,
+        "end": 202270,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7861329913139343,
+        "speaker": null
+    },
+    {
+        "text": "This is your daughter?",
+        "start": 205010,
+        "end": 206670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7896560430526733,
+        "speaker": null
+    },
+    {
+        "text": "Show us.",
+        "start": 207010,
+        "end": 207806,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6657776236534119,
+        "speaker": null
+    },
+    {
+        "text": "Are you serious?",
+        "start": 207908,
+        "end": 208906,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5716437697410583,
+        "speaker": null
+    },
+    {
+        "text": "No.",
+        "start": 209018,
+        "end": 209294,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4936187267303467,
+        "speaker": null
+    },
+    {
+        "text": "Nobody else can see her.",
+        "start": 209332,
+        "end": 210414,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5124034881591797,
+        "speaker": null
+    },
+    {
+        "text": "Actually, I don't want Iowa to know she's out here.",
+        "start": 210452,
+        "end": 213554,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7771278023719788,
+        "speaker": null
+    },
+    {
+        "text": "This is your daughter?",
+        "start": 213672,
+        "end": 215054,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7896560430526733,
+        "speaker": null
+    },
+    {
+        "text": "How old is she?",
+        "start": 215182,
+        "end": 216418,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8759516477584839,
+        "speaker": null
+    },
+    {
+        "text": "This is the 21 year old.",
+        "start": 216584,
+        "end": 218260,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6654629707336426,
+        "speaker": null
+    },
+    {
+        "text": "I didn't know.",
+        "start": 222950,
+        "end": 224020,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5028042793273926,
+        "speaker": null
+    },
+    {
+        "text": "This is a very tough decision to make, you guys.",
+        "start": 224790,
+        "end": 227154,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5134995579719543,
+        "speaker": null
+    },
+    {
+        "text": "I don't know if you've ever been from this position, but she's in Jacksonville.",
+        "start": 227192,
+        "end": 230906,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6545135378837585,
+        "speaker": null
+    },
+    {
+        "text": "She's in Jacksonville, Florida.",
+        "start": 230958,
+        "end": 232642,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9179496765136719,
+        "speaker": null
+    },
+    {
+        "text": "I'll be down there later on this year.",
+        "start": 232786,
+        "end": 237030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8516403436660767,
+        "speaker": null
+    },
+    {
+        "text": "She looks exactly like you.",
+        "start": 237180,
+        "end": 238666,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6297169327735901,
+        "speaker": null
+    },
+    {
+        "text": "This is insane.",
+        "start": 238688,
+        "end": 239414,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8647347688674927,
+        "speaker": null
+    },
+    {
+        "text": "Yes, she does.",
+        "start": 239462,
+        "end": 240346,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5893681049346924,
+        "speaker": null
+    },
+    {
+        "text": "She's gorgeous.",
+        "start": 240448,
+        "end": 241770,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9765452742576599,
+        "speaker": null
+    },
+    {
+        "text": "All right, so I'm going to date you for the next ten years, and then we'll trade up.",
+        "start": 242670,
+        "end": 247580,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7468664050102234,
+        "speaker": null
+    },
+    {
+        "text": "Fuck.",
+        "start": 250750,
+        "end": 251254,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.917773962020874,
+        "speaker": null
+    },
+    {
+        "text": "This is about to be the most uncomfortable Thanksgiving I've ever been to in my life.",
+        "start": 251302,
+        "end": 256320,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9550737738609314,
+        "speaker": null
+    },
+    {
+        "text": "Damn.",
+        "start": 257810,
+        "end": 258730,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8026734590530396,
+        "speaker": null
+    },
+    {
+        "text": "Because if you taste this good, it's going to be a problem.",
+        "start": 258890,
+        "end": 261200,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.43626898527145386,
+        "speaker": null
+    },
+    {
+        "text": "What's your biggest fear?",
+        "start": 268930,
+        "end": 270590,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5845175385475159,
+        "speaker": null
+    },
+    {
+        "text": "Losing my kids.",
+        "start": 271890,
+        "end": 272938,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8634073734283447,
+        "speaker": null
+    },
+    {
+        "text": "Losing your kids?",
+        "start": 273044,
+        "end": 274114,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7060194611549377,
+        "speaker": null
+    },
+    {
+        "text": "You might find them.",
+        "start": 274232,
+        "end": 275620,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6981120109558105,
+        "speaker": null
+    },
+    {
+        "text": "That's bad.",
+        "start": 279990,
+        "end": 281140,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9530909657478333,
+        "speaker": null
+    },
+    {
+        "text": "But if the one of Jacksonville goes missing, mind your business.",
+        "start": 282070,
+        "end": 284920,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5463406443595886,
+        "speaker": null
+    },
+    {
+        "text": "She's in good hands.",
+        "start": 286250,
+        "end": 287800,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8168995976448059,
+        "speaker": null
+    },
+    {
+        "text": "Got your phone.",
+        "start": 294270,
+        "end": 295420,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6492804288864136,
+        "speaker": null
+    },
+    {
+        "text": "All right, let's swipe out of Instagram, see what else is in here.",
+        "start": 297070,
+        "end": 300060,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7844592332839966,
+        "speaker": null
+    },
+    {
+        "text": "Now let's go through a photo album.",
+        "start": 302130,
+        "end": 303722,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8689092397689819,
+        "speaker": null
+    },
+    {
+        "text": "Let's.",
+        "start": 303786,
+        "end": 304458,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5992870330810547,
+        "speaker": null
+    },
+    {
+        "text": "No, wait.",
+        "start": 304634,
+        "end": 305600,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5375661849975586,
+        "speaker": null
+    },
+    {
+        "text": "Here's the thing.",
+        "start": 315490,
+        "end": 316350,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6364628672599792,
+        "speaker": null
+    },
+    {
+        "text": "Here's the thing.",
+        "start": 316420,
+        "end": 317246,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6364628672599792,
+        "speaker": null
+    },
+    {
+        "text": "I won't open it if you just tell me what's in there.",
+        "start": 317348,
+        "end": 320340,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5205910205841064,
+        "speaker": null
+    },
+    {
+        "text": "I had a lump in my breast.",
+        "start": 321270,
+        "end": 322862,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8233323693275452,
+        "speaker": null
+    },
+    {
+        "text": "You had a lump in your breast?",
+        "start": 322926,
+        "end": 323966,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5779046416282654,
+        "speaker": null
+    },
+    {
+        "text": "And I had a mammogram.",
+        "start": 323998,
+        "end": 324990,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7103983163833618,
+        "speaker": null
+    },
+    {
+        "text": "You had a mammogram recently?",
+        "start": 325070,
+        "end": 326578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.865393877029419,
+        "speaker": null
+    },
+    {
+        "text": "I'm best friends with my kids, and so I facetimed my daughter, the hot one.",
+        "start": 326674,
+        "end": 332200,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8868705630302429,
+        "speaker": null
+    },
+    {
+        "text": "You're not going to ask for ugly people's advice.",
+        "start": 333370,
+        "end": 335362,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.748317539691925,
+        "speaker": null
+    },
+    {
+        "text": "Yeah, I totally get it.",
+        "start": 335426,
+        "end": 336920,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6241956949234009,
+        "speaker": null
+    },
+    {
+        "text": "There's screenshots of her and I Facetime with just a tit out.",
+        "start": 337930,
+        "end": 342380,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7949118614196777,
+        "speaker": null
+    },
+    {
+        "text": "Fuck.",
+        "start": 344510,
+        "end": 345370,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.917773962020874,
+        "speaker": null
+    },
+    {
+        "text": "Because, like, you know, it's in the palm of your hand.",
+        "start": 347550,
+        "end": 350060,
+        "sentiment": "POSITIVE",
+        "confidence": 0.608549952507019,
+        "speaker": null
+    },
+    {
+        "text": "Did you get the results back?",
+        "start": 353010,
+        "end": 354430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8271589279174805,
+        "speaker": null
+    },
+    {
+        "text": "Yeah.",
+        "start": 354500,
+        "end": 354782,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5491449236869812,
+        "speaker": null
+    },
+    {
+        "text": "You're okay?",
+        "start": 354836,
+        "end": 355630,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6371877789497375,
+        "speaker": null
+    },
+    {
+        "text": "Need a second opinion?",
+        "start": 355780,
+        "end": 357230,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.849902331829071,
+        "speaker": null
+    },
+    {
+        "text": "Sure.",
+        "start": 359330,
+        "end": 360080,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47534677386283875,
+        "speaker": null
+    },
+    {
+        "text": "Text messages.",
+        "start": 361170,
+        "end": 362510,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6247857213020325,
+        "speaker": null
+    },
+    {
+        "text": "Text.",
+        "start": 364450,
+        "end": 364862,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6504124999046326,
+        "speaker": null
+    },
+    {
+        "text": "Maggie?",
+        "start": 364916,
+        "end": 365642,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7889871597290039,
+        "speaker": null
+    },
+    {
+        "text": "Is that Maggie, your daughter?",
+        "start": 365786,
+        "end": 367490,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8861253261566162,
+        "speaker": null
+    },
+    {
+        "text": "Facetimer Maggie?",
+        "start": 367910,
+        "end": 376114,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8521419167518616,
+        "speaker": null
+    },
+    {
+        "text": "That is not your angle.",
+        "start": 376162,
+        "end": 377510,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.516369640827179,
+        "speaker": null
+    },
+    {
+        "text": "Where are you right now?",
+        "start": 384250,
+        "end": 385800,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8533850908279419,
+        "speaker": null
+    },
+    {
+        "text": "Hungover.",
+        "start": 386410,
+        "end": 387430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5269956588745117,
+        "speaker": null
+    },
+    {
+        "text": "Oh, my God.",
+        "start": 392590,
+        "end": 394060,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.44471031427383423,
+        "speaker": null
+    },
+    {
+        "text": "Do you know how hot your mom is?",
+        "start": 398030,
+        "end": 399980,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8814708590507507,
+        "speaker": null
+    },
+    {
+        "text": "I know.",
+        "start": 400430,
+        "end": 401322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5131721496582031,
+        "speaker": null
+    },
+    {
+        "text": "You're well aware of your competition, right?",
+        "start": 401456,
+        "end": 403600,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6724846363067627,
+        "speaker": null
+    },
+    {
+        "text": "You know you can't bring anybody home.",
+        "start": 404290,
+        "end": 406446,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6319801807403564,
+        "speaker": null
+    },
+    {
+        "text": "I know your mom was stupid enough to give me her phone, and I was going through your guys'text history and.",
+        "start": 406628,
+        "end": 414180,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.875324010848999,
+        "speaker": null
+    },
+    {
+        "text": "Gross.",
+        "start": 415430,
+        "end": 416290,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8208585381507874,
+        "speaker": null
+    },
+    {
+        "text": "But I'm glad she got that lump checked out, though.",
+        "start": 418790,
+        "end": 421426,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7493687868118286,
+        "speaker": null
+    },
+    {
+        "text": "I checked it out.",
+        "start": 421448,
+        "end": 422066,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7214673757553101,
+        "speaker": null
+    },
+    {
+        "text": "Everything's totally okay.",
+        "start": 422088,
+        "end": 423090,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8553875088691711,
+        "speaker": null
+    },
+    {
+        "text": "Second opinion.",
+        "start": 423160,
+        "end": 424370,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7330347299575806,
+        "speaker": null
+    },
+    {
+        "text": "Everything's totally all right.",
+        "start": 424890,
+        "end": 426600,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8037786483764648,
+        "speaker": null
+    },
+    {
+        "text": "Sure did show.",
+        "start": 442810,
+        "end": 444870,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.625359296798706,
+        "speaker": null
+    },
+    {
+        "text": "Did.",
+        "start": 444940,
+        "end": 445560,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6095841526985168,
+        "speaker": null
+    },
+    {
+        "text": "And you're a lucky motherfucker.",
+        "start": 446090,
+        "end": 449610,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.781668484210968,
+        "speaker": null
+    },
+    {
+        "text": "I don't know.",
+        "start": 450930,
+        "end": 451662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5666733384132385,
+        "speaker": null
+    },
+    {
+        "text": "All right, Maggie.",
+        "start": 451716,
+        "end": 452346,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6100715398788452,
+        "speaker": null
+    },
+    {
+        "text": "Say bye to your mom real quick.",
+        "start": 452378,
+        "end": 453840,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6450111865997314,
+        "speaker": null
+    },
+    {
+        "text": "Bye, Mama.",
+        "start": 454450,
+        "end": 455258,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.706254780292511,
+        "speaker": null
+    },
+    {
+        "text": "I love you.",
+        "start": 455274,
+        "end": 456240,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9642633199691772,
+        "speaker": null
+    },
+    {
+        "text": "Bye, Maggie.",
+        "start": 457330,
+        "end": 458590,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6932289004325867,
+        "speaker": null
+    },
+    {
+        "text": "What do you mean?",
+        "start": 467890,
+        "end": 468960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7294426560401917,
+        "speaker": null
+    },
+    {
+        "text": "What do you mean?",
+        "start": 469510,
+        "end": 470066,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7294426560401917,
+        "speaker": null
+    },
+    {
+        "text": "They fucked them up.",
+        "start": 470088,
+        "end": 471220,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9417115449905396,
+        "speaker": null
+    },
+    {
+        "text": "Who fucked up your titties?",
+        "start": 472310,
+        "end": 473970,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.925092339515686,
+        "speaker": null
+    },
+    {
+        "text": "The doctor.",
+        "start": 475450,
+        "end": 476550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6973385810852051,
+        "speaker": null
+    },
+    {
+        "text": "Do you have fake boobs?",
+        "start": 477770,
+        "end": 479266,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5148895382881165,
+        "speaker": null
+    },
+    {
+        "text": "Fuck.",
+        "start": 479458,
+        "end": 480310,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.917773962020874,
+        "speaker": null
+    },
+    {
+        "text": "Prove it.",
+        "start": 483690,
+        "end": 484760,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6915201544761658,
+        "speaker": null
+    },
+    {
+        "text": "What do you.",
+        "start": 487630,
+        "end": 488186,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6953639984130859,
+        "speaker": null
+    },
+    {
+        "text": "They make sounds like.",
+        "start": 488208,
+        "end": 490140,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7365772128105164,
+        "speaker": null
+    },
+    {
+        "text": "What sound do fake pigs make?",
+        "start": 490670,
+        "end": 496140,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.881936252117157,
+        "speaker": null
+    },
+    {
+        "text": "Cha ching.",
+        "start": 496510,
+        "end": 497530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7136839032173157,
+        "speaker": null
+    },
+    {
+        "text": "Thank you guys, for coming on this date with Christina, and I hope you guys have thoroughly enjoyed watching me ruin this family.",
+        "start": 501730,
+        "end": 509440,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9439427852630615,
+        "speaker": null
+    },
+    {
+        "text": "What was that?",
+        "start": 513570,
+        "end": 514720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7856966257095337,
+        "speaker": null
+    },
+    {
+        "text": "You're lying.",
+        "start": 519110,
+        "end": 520210,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.912631630897522,
+        "speaker": null
+    },
+    {
+        "text": "That did not just happen.",
+        "start": 520790,
+        "end": 522340,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6366296410560608,
+        "speaker": null
+    },
+    {
+        "text": "You.",
+        "start": 523830,
+        "end": 524580,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5462568998336792,
+        "speaker": null
+    },
+    {
+        "text": "Was that a real thing?",
+        "start": 524890,
+        "end": 526200,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8394783139228821,
+        "speaker": null
+    },
+    {
+        "text": "She has a squeaky toy in her city and you talking to a dog crazy.",
+        "start": 538830,
+        "end": 548380,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5190309882164001,
+        "speaker": null
+    },
+    {
+        "text": "Oh.",
+        "start": 550210,
+        "end": 550960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5443295240402222,
+        "speaker": null
+    },
+    {
+        "text": "What?",
+        "start": 553170,
+        "end": 553920,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5652864575386047,
+        "speaker": null
+    },
+    {
+        "text": "I don't think that's a mistake.",
+        "start": 555970,
+        "end": 557274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7014667391777039,
+        "speaker": null
+    },
+    {
+        "text": "I think that's the best thing to have ever happened.",
+        "start": 557322,
+        "end": 559760,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9888084530830383,
+        "speaker": null
+    },
+    {
+        "text": "You can get squeaky toys.",
+        "start": 561890,
+        "end": 563454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6464802622795105,
+        "speaker": null
+    },
+    {
+        "text": "Besides your titties, can you customize them like a Tesla horn?",
+        "start": 563502,
+        "end": 567810,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7630967497825623,
+        "speaker": null
+    },
+    {
+        "text": "What made you get them done?",
+        "start": 569110,
+        "end": 570580,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8336197733879089,
+        "speaker": null
+    },
+    {
+        "text": "Four kids.",
+        "start": 571110,
+        "end": 572146,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.707365095615387,
+        "speaker": null
+    },
+    {
+        "text": "You breastfeed two of them.",
+        "start": 572328,
+        "end": 575140,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.751007080078125,
+        "speaker": null
+    },
+    {
+        "text": "Damn.",
+        "start": 575610,
+        "end": 576470,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8026734590530396,
+        "speaker": null
+    },
+    {
+        "text": "Because, you know, it goes great with cookies, milk, silicone.",
+        "start": 577770,
+        "end": 585750,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8938213586807251,
+        "speaker": null
+    },
+    {
+        "text": "Last time I was in Iowa, a woman gave me cookies on stage.",
+        "start": 587550,
+        "end": 591610,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5726430416107178,
+        "speaker": null
+    },
+    {
+        "text": "Her name's Christina and I haven't spoken to her in forever.",
+        "start": 594190,
+        "end": 599094,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.85984867811203,
+        "speaker": null
+    },
+    {
+        "text": "Is there any chance she's at this show?",
+        "start": 599142,
+        "end": 601120,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9264707565307617,
+        "speaker": null
+    },
+    {
+        "text": "Wait.",
+        "start": 601810,
+        "end": 602366,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5850817561149597,
+        "speaker": null
+    },
+    {
+        "text": "Shut the fuck up.",
+        "start": 602468,
+        "end": 604560,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9283331036567688,
+        "speaker": null
+    },
+    {
+        "text": "Christina, how have you been?",
+        "start": 605970,
+        "end": 611280,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8871198296546936,
+        "speaker": null
+    },
+    {
+        "text": "Your daughter's great.",
+        "start": 612870,
+        "end": 614260,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9433498382568359,
+        "speaker": null
+    },
+    {
+        "text": "Okay, clearly there's a lot of people here who have no idea what happened.",
+        "start": 618390,
+        "end": 621860,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8447316884994507,
+        "speaker": null
+    },
+    {
+        "text": "Oh, yeah.",
+        "start": 622390,
+        "end": 622866,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5585338473320007,
+        "speaker": null
+    },
+    {
+        "text": "I forgot.",
+        "start": 622888,
+        "end": 623166,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5033420324325562,
+        "speaker": null
+    },
+    {
+        "text": "Her titties squeak.",
+        "start": 623198,
+        "end": 623886,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.743558943271637,
+        "speaker": null
+    },
+    {
+        "text": "I forgot about that.",
+        "start": 623918,
+        "end": 625060,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5873357653617859,
+        "speaker": null
+    },
+    {
+        "text": "Do they still squeak?",
+        "start": 628150,
+        "end": 629650,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8131832480430603,
+        "speaker": null
+    },
+    {
+        "text": "Shut the fuck up.",
+        "start": 630490,
+        "end": 632520,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9283331036567688,
+        "speaker": null
+    },
+    {
+        "text": "What?",
+        "start": 633930,
+        "end": 634680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5652864575386047,
+        "speaker": null
+    },
+    {
+        "text": "You never changed up.",
+        "start": 635370,
+        "end": 636806,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6224796772003174,
+        "speaker": null
+    },
+    {
+        "text": "You are still the original Christina, and I adore you one more time.",
+        "start": 636828,
+        "end": 640700,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9773046970367432,
+        "speaker": null
+    },
+    {
+        "text": "Welcome to Iowa.",
+        "start": 641470,
+        "end": 642970,
+        "sentiment": "POSITIVE",
+        "confidence": 0.784544050693512,
+        "speaker": null
+    },
+    {
+        "text": "Oh, my goodness.",
+        "start": 653650,
+        "end": 655230,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4549579918384552,
+        "speaker": null
+    },
+    {
+        "text": "That's what happens when you get your titties on a petsmart.",
+        "start": 656050,
+        "end": 658670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5115371942520142,
+        "speaker": null
+    },
+    {
+        "text": "How's Maggie?",
+        "start": 660690,
+        "end": 661514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7992256879806519,
+        "speaker": null
+    },
+    {
+        "text": "Tell her I said help.",
+        "start": 661562,
+        "end": 662286,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7890037894248962,
+        "speaker": null
+    },
+    {
+        "text": "You know what?",
+        "start": 662308,
+        "end": 663360,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7042287588119507,
+        "speaker": null
+    },
+    {
+        "text": "Please, can I call Maggie one more time, for real?",
+        "start": 665110,
+        "end": 668100,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7333036661148071,
+        "speaker": null
+    },
+    {
+        "text": "Okay.",
+        "start": 670470,
+        "end": 671220,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5843514800071716,
+        "speaker": null
+    },
+    {
+        "text": "Tell him you're sorry.",
+        "start": 673110,
+        "end": 674322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.562606930732727,
+        "speaker": null
+    },
+    {
+        "text": "You're so hot.",
+        "start": 674456,
+        "end": 675700,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9707896709442139,
+        "speaker": null
+    },
+    {
+        "text": "Come on.",
+        "start": 680650,
+        "end": 681094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5757861137390137,
+        "speaker": null
+    },
+    {
+        "text": "Do it.",
+        "start": 681132,
+        "end": 681880,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6037688851356506,
+        "speaker": null
+    },
+    {
+        "text": "Good to see you.",
+        "start": 696170,
+        "end": 697480,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9644165635108948,
+        "speaker": null
+    },
+    {
+        "text": "You?",
+        "start": 699610,
+        "end": 700360,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6412779092788696,
+        "speaker": null
+    },
+    {
+        "text": "My bad.",
+        "start": 708450,
+        "end": 709440,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7269704937934875,
+        "speaker": null
+    },
+    {
+        "text": "How are you?",
+        "start": 712290,
+        "end": 713440,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7345337271690369,
+        "speaker": null
+    },
+    {
+        "text": "I'm good.",
+        "start": 714850,
+        "end": 715582,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9117157459259033,
+        "speaker": null
+    },
+    {
+        "text": "How are you?",
+        "start": 715636,
+        "end": 716510,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7345337271690369,
+        "speaker": null
+    },
+    {
+        "text": "I'm good.",
+        "start": 716660,
+        "end": 717342,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9117157459259033,
+        "speaker": null
+    },
+    {
+        "text": "The three of you look fantastic.",
+        "start": 717396,
+        "end": 719150,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9851373434066772,
+        "speaker": null
+    },
+    {
+        "text": "Are you still a lucky motherfucker?",
+        "start": 721170,
+        "end": 723150,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8679830431938171,
+        "speaker": null
+    },
+    {
+        "text": "Whoa.",
+        "start": 723730,
+        "end": 724510,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6108166575431824,
+        "speaker": null
+    },
+    {
+        "text": "Trying to be.",
+        "start": 725610,
+        "end": 726680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7424972057342529,
+        "speaker": null
+    },
+    {
+        "text": "Are you still in Florida?",
+        "start": 728410,
+        "end": 729990,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9080495238304138,
+        "speaker": null
+    },
+    {
+        "text": "Yes.",
+        "start": 730410,
+        "end": 731160,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4610389769077301,
+        "speaker": null
+    },
+    {
+        "text": "You in Miami now?",
+        "start": 731930,
+        "end": 733222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8850730061531067,
+        "speaker": null
+    },
+    {
+        "text": "Well, we lost a good one.",
+        "start": 733276,
+        "end": 734840,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6868193745613098,
+        "speaker": null
+    },
+    {
+        "text": "Do you have a bath bomb in or is it just.",
+        "start": 737210,
+        "end": 739560,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8201777935028076,
+        "speaker": null
+    },
+    {
+        "text": "Oh, okay.",
+        "start": 744250,
+        "end": 744854,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5817292332649231,
+        "speaker": null
+    },
+    {
+        "text": "I thought you were just washing Miami off.",
+        "start": 744892,
+        "end": 746454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5478848218917847,
+        "speaker": null
+    },
+    {
+        "text": "You all right?",
+        "start": 746492,
+        "end": 749966,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7758544087409973,
+        "speaker": null
+    },
+    {
+        "text": "I'm going to get back to talking to your mom.",
+        "start": 750108,
+        "end": 752574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8317187428474426,
+        "speaker": null
+    },
+    {
+        "text": "I just wanted to say hi real quick.",
+        "start": 752612,
+        "end": 754400,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6094557642936707,
+        "speaker": null
+    },
+    {
+        "text": "It's literally just her and I and not 3000 people.",
+        "start": 755330,
+        "end": 758078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6744295954704285,
+        "speaker": null
+    },
+    {
+        "text": "So your only fan subscribers are about to go way up.",
+        "start": 758164,
+        "end": 766640,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5702090263366699,
+        "speaker": null
+    },
+    {
+        "text": "Bye, Maggie.",
+        "start": 768050,
+        "end": 768890,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6932289004325867,
+        "speaker": null
+    }
+]
